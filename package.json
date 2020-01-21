@@ -1,0 +1,19 @@
+{
+  "name": "morphic",
+  "version": "1.0.0",
+  "description": "a lively Web-GUI inspired by Squeak",
+  "main": "morphic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowfox/morphic.js.git"
+  },
+  "author": "Jens Mönig jens@moenig.org",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jmoenig/morphic.js/issues"
+  },
+  "homepage": "https://github.com/jmoenig/morphic.js#readme"
+}
